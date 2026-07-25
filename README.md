@@ -21,7 +21,9 @@ The original LendingClub file contains 2M+ accepted loans from 2007–2018. The 
 
 ## Dashboard
 
-The packaged Tableau workbook is available at [`outputs/final.twbx`](outputs/final.twbx).
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/meet.shah1034/viz/ConsumerLoanCharge-OffRiskAnalysis/Dashboard1)**
+
+The packaged Tableau workbook is also available at [`outputs/final.twbx`](outputs/final.twbx).
 
 The dashboard contains two complementary types of analysis.
 
