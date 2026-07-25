@@ -1,0 +1,4 @@
+metric,value
+ROC-AUC,0.6733373282153093
+Average precision,0.26725106348730343
+No-skill precision baseline,0.15595976380522833

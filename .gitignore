@@ -1,0 +1,18 @@
+# Raw and local analytical data
+data/
+*.duckdb
+*.duckdb.wal
+outputs/tableau_loan_scores.csv
+outputs/*.twbx
+!outputs/final.twbx
+
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating-system and editor files
+.DS_Store
+.vscode/
